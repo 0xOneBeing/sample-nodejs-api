@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/SundayAmosObi/sample-nodejs-api/issues"
   },
-  "homepage": "https://github.com/SundayAmosObi/sample-nodejs-api#readme"
+  "homepage": "https://github.com/SundayAmosObi/sample-nodejs-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
